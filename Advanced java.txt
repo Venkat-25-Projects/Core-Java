@@ -1,0 +1,12 @@
+Advanced java
+===============
+=>By using core java we can build only stand alone applications.
+=>by using core java we can build 2 stand alone applications
+1)GUI Build applications >>EX: word, paint >>Desktop applications
+2)CUI Build applications >>CMP, Console applications
+Character user interface.
+3)By using core java we can build 5% of applications only.
+===========================================================
+LVTI =>Local variable type
+
+
